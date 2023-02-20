@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Pasindu Madhusha Siriwardana a.k.a @Gamdev708
-- 👀 I’m interested in Game Development Mainly in GamePLay Programming
-- 🌱 I’m currently learning Bsc(Hons)Computer Science & Software Engineering of University of Bedfordshire
+- 👀 I’m interested in Game Development Mainly in GamePlay Programming
+- 🌱 I’m a Bsc(Hons)Computer Science & Software Engineering of University of Bedfordshire
+- I'm Associate Software Engineer at Browns & Company PLC
 - 💞️ I’m looking to collaborate on Game Projects
 - 📫 How to reach me 1.By email-siriwardanapasindu076@gmail.com
 
